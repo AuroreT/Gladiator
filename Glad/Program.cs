@@ -95,15 +95,15 @@ namespace Glad
             g9.newEquipment(new Dagger());
             g9.newEquipment(new Spear());
 
-            Gladiator g10 = new Gladiator("Glad10");
+            Gladiator g10 = new Gladiator("Ivy");
             g10.newEquipment(new Dagger());
             g10.newEquipment(new Spear());
 
-            Gladiator g11 = new Gladiator("Glad11");
+            Gladiator g11 = new Gladiator("Kilik");
             g11.newEquipment(new Sword());
             g11.newEquipment(new Dagger());
 
-            Gladiator g12 = new Gladiator("Glad12");
+            Gladiator g12 = new Gladiator("Paul");
             g12.newEquipment(new SmallShield());
             g12.newEquipment(new Dagger());
 
