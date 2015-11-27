@@ -1,0 +1,6 @@
+C:\Users\ogma\Desktop\WORKSPACES\GladiatorsProject\Glad\Glad\bin\Debug\Glad.exe.config
+C:\Users\ogma\Desktop\WORKSPACES\GladiatorsProject\Glad\Glad\bin\Debug\Glad.exe
+C:\Users\ogma\Desktop\WORKSPACES\GladiatorsProject\Glad\Glad\bin\Debug\Glad.pdb
+C:\Users\ogma\Desktop\WORKSPACES\GladiatorsProject\Glad\Glad\obj\Debug\Glad.exe
+C:\Users\ogma\Desktop\WORKSPACES\GladiatorsProject\Glad\Glad\obj\Debug\Glad.pdb
+C:\Users\ogma\Desktop\WORKSPACES\GladiatorsProject\Glad\Glad\obj\Debug\Glad.csprojResolveAssemblyReference.cache
